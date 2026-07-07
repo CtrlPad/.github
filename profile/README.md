@@ -1,6 +1,8 @@
-# CtrlPad 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CtrlPad/desktop/refs/heads/main/src-tauri/icons/128x128.png" alt="CtrlPad Logo" width="128" />
+</p>
 
-![CtrlPad Logo](https://raw.githubusercontent.com/CtrlPad/desktop/refs/heads/main/src-tauri/icons/128x128%402x.png)
+<h1 align="center">CtrlPad</h1>
 
 The daemon is a background service that listens for and executes CtrlPad button actions.
 
