@@ -13,6 +13,6 @@ This project is divided into three distinct repositories: the Firmware (the code
 
 ## Team
 
-| ![ Pfp ](https://cdn.discordapp.com/avatars/831464905131294730/035bdb43695620257e2536c7c0f910bc.webp?size=160) |
+| ![ Pfp ](https://cdn.discordapp.com/avatars/831464905131294730/035bdb43695620257e2536c7c0f910bc.webp?size=100) |
 | :-----: |
 | [brainlesslukas](https://brainlesslukas.com) |
